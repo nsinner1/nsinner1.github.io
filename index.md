@@ -10,6 +10,23 @@ Growth mindset is being used **open**. Being willing to **accept** change and id
 
 
 read-evaluate-print loop or REPL
+
++ bla
++ yo
+
+- is
+- ut
+
+> dragonfly
+
+# dragonfly
+
+& dragonfly 
+
+`dragonfly` 
+
+[GitHub](https://github.com)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
