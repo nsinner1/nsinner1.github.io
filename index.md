@@ -1,4 +1,6 @@
-## Natalie's Learning Journal
+# Natalie's Learning Journal
+
+###### My name is Natalie Sinner. I come from the automotive industry. I currently work for Tesla. My computer operating system is macOS Catalina Version 10.15.1. I am expecting to learn more about coding.
 
 Growth mindset is being used **open**. Being willing to **accept** change and ideas. Accepting that things are **different** and can be done differently.  
 
