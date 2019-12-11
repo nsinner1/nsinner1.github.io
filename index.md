@@ -6,6 +6,8 @@ Growth mindset is being used **open**. Being willing to **accept** change and id
 2. No judgement 
 3. Just say _thank you_
 
+
+read-evaluate-print loop or REPL
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
