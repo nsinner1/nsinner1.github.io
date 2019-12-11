@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Natalie's Learning Journal
 
-You can use the [editor on GitHub](https://github.com/nsinner1/nsinner1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Growth mindset is being used **open**. Being willing to **accept** change and ideas. Accepting that things are **different** and can be done differently.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Being open
+2. No judgement 
+3. Just say _thank you_
 
 ### Markdown
 
