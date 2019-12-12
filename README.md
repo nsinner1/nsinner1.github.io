@@ -8,8 +8,25 @@ Growth mindset is being used **open**. Being willing to **accept** change and id
 2. No judgement 
 3. Just say _thank you_
 
+## Read: 03 - Revisions and the Cloud (Git)
 
-##Cheat sheet
+Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes.
+  + Centralized Version Control System (CVCS) collaboration within a developer team on a single file or set of files
+  + Distributed Version Control systems (DVCS) addresses the major vulnerability of the CVS: the server as a single point of failure. Allows to create mirrored repositories.
+  
+ Snapshots/Commit - Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit 
+ Local Operations - a project’s history resides on the local disk (no VPN necessary) 
+ Tracking Changes - Every single change applied to any file or directory is tracked by Git. (Accountability!!!!)
+ Loss of Data - Git makes it extremely difficult for a snapshot of your file that is committed to be lost.
+ 3 States of Git
+  + Committed - Data is securely stored in a local database
+  + Modified - File has been changed but not committed to the database
+  + Staged - Flagged a file’s changed version to be committed in the next snapshot
+
+
+
+
+## Cheat sheet
 + ls -l:	list with long format - show permissions
 + in VS Code: command, shift, p click shell command 
 + file.exe - an executable file, or program.
