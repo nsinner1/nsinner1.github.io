@@ -10,13 +10,13 @@ Growth mindset is being used **open**. Being willing to **accept** change and id
 
 
 ##Cheat sheet
-ls -l:	list with long format - show permissions
-in VS Code: command, shift, p click shell command 
-file.exe - an executable file, or program.
-file.txt - a plain text file.
-file.png, file.gif, file.jpg - an image.
-cd = change directory
-Start typing then hit tab instead of type whole command 
++ ls -l:	list with long format - show permissions
++ in VS Code: command, shift, p click shell command 
++ file.exe - an executable file, or program.
++ file.txt - a plain text file.
++ file.png, file.gif, file.jpg - an image.
++ cd = change directory
++ Start typing then hit tab instead of type whole command 
 
 read-evaluate-print loop or REPL
 
