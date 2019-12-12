@@ -24,8 +24,6 @@ Version Control is a system that allows you to revisit various versions of a fil
   + Staged - Flagged a file’s changed version to be committed in the next snapshot
 
 
-
-
 ## Cheat sheet
 + ls -l:	list with long format - show permissions
 + in VS Code: command, shift, p click shell command 
