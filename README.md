@@ -60,9 +60,15 @@ The <span> element acts like an inline equivalent of the <div> element.
 + file.txt - a plain text file.
 + file.png, file.gif, file.jpg - an image.
 + cd = change directory
+<<<<<<< HEAD
 + Start typing then hit tab instead of type whole command
+=======
++ Start typing then hit tab instead of type whole command 
+>>>>>>> d4943258b0fa716592c09b0c9c59069814bc5b58
 
 read-evaluate-print loop or REPL
+
+hello 
 
 + bla
 + yo
