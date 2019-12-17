@@ -51,7 +51,26 @@ The <div> element allows you to group a set of elements together in one block-le
 
 The <span> element acts like an inline equivalent of the <div> element. 
 
+## Read: 07 - Programming with JavaScript
+A script is a series of instructions that a computer can follow to achieve a goal.
+    1: DEFINE THE GOAL
+    2: DESIGN THE SCRIPT
+    3: CODE EACH STEP
 
+An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions.
+    + JUST ASSIGN A VALUE TO A VARIABLE
+    + USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE 
+    + Page 76 for mathmatical operations
+
+Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
+
+Function declaration: give function a name and then wrtie the statements needed to achieve its task inside the curly braces. 
+
+Calling the function: after declaring function, you can then execute all of the statements between its curly braces with just one line of code
+
+Parameters: a function needs specific information to perform its task (act like variables)
+
+Arguments: call a function that has parameters, you specify the values it should use in the parentheses that follow its name. 
     
 ## Cheat sheet
 + ls -l:	list with long format - show permissions
@@ -60,11 +79,7 @@ The <span> element acts like an inline equivalent of the <div> element.
 + file.txt - a plain text file.
 + file.png, file.gif, file.jpg - an image.
 + cd = change directory
-<<<<<<< HEAD
 + Start typing then hit tab instead of type whole command
-=======
-+ Start typing then hit tab instead of type whole command 
->>>>>>> d4943258b0fa716592c09b0c9c59069814bc5b58
 
 read-evaluate-print loop or REPL
 
