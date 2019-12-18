@@ -71,6 +71,35 @@ Calling the function: after declaring function, you can then execute all of the 
 Parameters: a function needs specific information to perform its task (act like variables)
 
 Arguments: call a function that has parameters, you specify the values it should use in the parentheses that follow its name. 
+
+## Read: 08 - Operators and Loops
+
+Comparison Operators:
+    Evaluate a situation by comparing one value in the script to what you expect it might be. Result will be a Boolean
+
+    + "==" is equal to
+    + "!=" is not equal to
+    + "===" strict equal to
+    + "!==" strict not equal to
+    + ">" greater then
+    + "<" less then
+    + ">=" greater than or equal to
+    + "<=" less than or equal to
+
+Logical Operators:
+    Comparison operators usually return single values of true or false. Logical operators allow you to compare the results of more than one comparison operator.    
+
+    + "&&" logical and
+    + "||" logical or
+    + "!" logical not
+
+Loops: 
+    Looks check a condition. 
+
+    + For: uses a counter as a condition
+    + While
+    + Do while
+
     
 ## Cheat sheet
 + ls -l:	list with long format - show permissions
