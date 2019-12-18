@@ -51,6 +51,22 @@ The <div> element allows you to group a set of elements together in one block-le
 
 The <span> element acts like an inline equivalent of the <div> element. 
 
+## Read: 05 - Design web pages with CSS
+Text colors:
+    + rgb values: These express colors in terms of how much red, green and blue are used to make it up. For example: rgb(100,100,90)
+    + hex Codes: These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign. For example: #ee3e80
+    + Color names: There are 147 predefined color names that are recognized by browsers. For example: DarkCyan
+
+The hsl color property has been introduced in CSS3 as an alternative way to specify colors. The value of the property starts with the letters hsl, followed
+by individual values inside parentheses for:
+    + hue: This is expressed as an angle (between 0 and 360 degrees).
+    + saturation: This is expressed as a percentage.
+    + lightness: This is expressed as a percentage with 0% being white, 50% being normal, and 100% being black.    
+    + alpha: This is expressed as a number between 0 and 1.0. For example, 0.5 represents 50% transparency, and 0.75 represents 75% transparency.
+
+
+
+
 ## Read: 07 - Programming with JavaScript
 A script is a series of instructions that a computer can follow to achieve a goal.
     1: DEFINE THE GOAL
